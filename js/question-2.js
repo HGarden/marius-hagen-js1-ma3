@@ -30,4 +30,4 @@ setTimeout(function () {
   }
 
   getData();
-}, 1000);
+}, 2000);
